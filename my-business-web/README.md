@@ -13,14 +13,14 @@ MY-BUSINESS-WEB
 ├── index.html
 └── README.md
 ├── services.html
----
+
 [index](index.html)
 ![index.html](images/Screenshot%202025-12-06%20151054.png)
 ![index.html](images/Screenshot%202025-12-06%20151157.png)
----
+
 [about](about.html)
 ![about.html](images/Screenshot%202025-12-06%20151645.png)
----
+
 [services](services.html)
 ![services.html](images/Screenshot%202025-12-06%20151916.png)
 ![services.html](images/Screenshot%202025-12-06%20151947.png)
