@@ -15,14 +15,14 @@ MY-BUSINESS-WEB
 ├── services.html
 
 [index](index.html)
-![index.html](images/Screenshot%202025-12-06%20151054.png)
-![index.html](images/Screenshot%202025-12-06%20151157.png)
+![index.html](images/Screenshot%202025-12-06%20205126.png)
+![index.html](images//Screenshot%202025-12-06%20205155.png)
 
 [about](about.html)
-![about.html](images/Screenshot%202025-12-06%20151645.png)
+![about.html](images/Screenshot%202025-12-06%20205326.png)
 
 [services](services.html)
-![services.html](images/Screenshot%202025-12-06%20151916.png)
+![services.html](images/Screenshot%202025-12-06%20205422.png)
 ![services.html](images/Screenshot%202025-12-06%20151947.png)
 
 [contact](contact.html)
