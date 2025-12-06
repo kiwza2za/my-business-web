@@ -24,3 +24,6 @@ MY-BUSINESS-WEB
 [services](services.html)
 ![services.html](images/Screenshot%202025-12-06%20151916.png)
 ![services.html](images/Screenshot%202025-12-06%20151947.png)
+
+[contact](contact.html)
+![services.html](images/Screenshot%202025-12-06%20152515.png)
