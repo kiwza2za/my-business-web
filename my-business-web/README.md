@@ -6,10 +6,14 @@
 
 ### โครงสร้างไฟล์ (File Structure)
 MY-BUSINESS-WEB
-├── index.html
-├── about.html
-├── services.html
-├── contact_us.html
 ├── images/
 │ └── ...
+├── about.html
+├── contact_us.html
+├── index.html
 └── README.md
+├── services.html
+
+[HOME](index.html)
+![index.html](images/Screenshot%202025-12-06%20151054.png)
+![index.html](images/Screenshot%202025-12-06%20151157.png)
